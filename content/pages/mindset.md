@@ -40,7 +40,7 @@ sections:
         default_value: lorem-ipsum
         options: []
         is_required: false
-    submit_label: lorem-ipsum
+    submit_label: Subscribe to our news
     type: section_form
 seo:
   title: ''
