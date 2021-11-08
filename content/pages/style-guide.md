@@ -1,5 +1,5 @@
 ---
-title: Style Guide
+title: Programare
 subtitle: "Programarea calculatorului\_este o activitate\_informatică\_de elaborare a produselor-program, a\_programelor\_(software) necesare activităților realizate cu ajutorul\_calculatorului. Programarea informatică conține următoarele subactivități: specificarea, proiectarea, implementarea, documentarea și întreținerea produsului program."
 seo:
   title: Theme Style Guide
