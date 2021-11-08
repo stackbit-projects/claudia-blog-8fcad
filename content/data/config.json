@@ -30,7 +30,7 @@
                 "label": "Mindset",
                 "url": "/mindset",
                 "style": "link",
-                "icon_class": "dev",
+                "icon_class": "github",
                 "new_window": false,
                 "no_follow": false
             },
