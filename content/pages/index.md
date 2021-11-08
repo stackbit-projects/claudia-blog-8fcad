@@ -12,7 +12,7 @@ sections:
     type: section_content
     title: Despre
     content: |
-      Sunt **programator **de 5ani si sunt *pasionata de traininguri.*
+      Sunt  programator de  5ani si sunt *pasionata de traininguri.*
 
       ## Limbajele de programare:
 
