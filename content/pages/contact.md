@@ -24,7 +24,7 @@ sections:
         default_value: Selectati
         options:
           - Succes pe site
-          - Sponsorship
+          - Sponsoriza
           - Other
       - input_type: textarea
         name: message
