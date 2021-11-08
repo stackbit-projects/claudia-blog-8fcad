@@ -19,7 +19,7 @@ sections:
         default_value: Your email address
         is_required: true
       - input_type: select
-        name: subject
+        name: subjict
         label: Subiect
         default_value: Please select
         options:
