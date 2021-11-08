@@ -29,7 +29,7 @@
             {
                 "label": "Mindset",
                 "url": "/mindset",
-                "style": "link",
+                "style": "button",
                 "icon_class": "dev",
                 "new_window": false,
                 "no_follow": false
