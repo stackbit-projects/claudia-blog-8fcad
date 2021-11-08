@@ -8,6 +8,7 @@ seo:
   robots: []
   extra: []
 layout: page
+img_path: /images/success-story.jpg
 ---
 ## Lorem ipsum
 
