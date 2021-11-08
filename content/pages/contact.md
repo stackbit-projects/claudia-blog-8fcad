@@ -23,7 +23,7 @@ sections:
         label: Subiect
         default_value: Selectati
         options:
-          - Error on the site
+          - Succes pe site
           - Sponsorship
           - Other
       - input_type: textarea
