@@ -25,7 +25,7 @@ sections:
         options:
           - Succes pe site
           - Sponsorizare
-          - Other
+          - Altele
       - input_type: textarea
         name: message
         label: Message
