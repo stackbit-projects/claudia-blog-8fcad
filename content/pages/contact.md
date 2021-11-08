@@ -26,6 +26,7 @@ sections:
           - Succes pe site
           - Sponsorizare
           - Altele
+          - lorem-ipsum
       - input_type: textarea
         name: message
         label: Message
