@@ -4,7 +4,7 @@ excerpt: O zi chiar buna din viata unui programator
 date: '2021-11-08'
 thumb_img_path: /images/intro.jpg
 thumb_img_alt: Icelandic horses
-content_img_path: images/7.jpg
+content_img_path: /images/intro.jpg
 content_img_alt: Icelandic horses
 seo:
   title: Fragments of Iceland
