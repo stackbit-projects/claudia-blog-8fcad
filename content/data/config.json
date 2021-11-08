@@ -30,7 +30,7 @@
                 "label": "Mindset",
                 "url": "/mindset",
                 "style": "link",
-                "icon_class": "youtube",
+                "icon_class": "dev",
                 "new_window": false,
                 "no_follow": false
             },
